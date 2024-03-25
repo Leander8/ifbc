@@ -1,9 +1,9 @@
 // ==UserScript==
-// @name         Is registration open
-// @namespace    http://tampermonkey.net/
-// @version      2024-03-25
-// @description  try to take over the world!
-// @author       You
+// @name         IFBC4
+// @namespace    ifbc4
+// @version      0.1
+// @description  checking useful stuff for ifbc4
+// @author       Leander
 // @match        https://*.events.the-west.net/*
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=the-west.net
 // @updateURL    https://leander8.github.io/ifbc/script.user.js
