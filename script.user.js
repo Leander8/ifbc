@@ -6,8 +6,8 @@
 // @author       You
 // @match        https://*.events.the-west.net/*
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=the-west.net
-// @updateURL https://leander8.github.io/ifbc/script.user.js
-// @downloadURL https://leander8.github.io/ifbc/script.user.js
+// @updateURL    https://leander8.github.io/ifbc/script.user.js
+// @downloadURL  https://leander8.github.io/ifbc/script.user.js
 // @grant        none
 // ==/UserScript==
 
